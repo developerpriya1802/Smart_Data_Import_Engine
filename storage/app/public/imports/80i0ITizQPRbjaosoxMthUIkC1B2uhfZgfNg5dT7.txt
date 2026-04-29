@@ -1,0 +1,2 @@
+Beneficiary Code,Beneficiary Name,Account Number
+B001,Rahul Sharma,123456789
